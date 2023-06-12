@@ -1,7 +1,7 @@
 ### Hi there! My name is Reza 👋
 
 # 💫 About Reza:
-🔭 I’m a alumni of Electrical Engineering. B.Sc. of Electronics and M.Sc. in Telecommunication Systems.<br>👯 I’m looking to collaborate on AI , Data Science and Wireless Communication stuffs!<br>🌱 I’m currently learning A.I , Python and Signal Processing.<br>💬 Ask me about Wireless Communication Systems issues.<br>⚡ Fun fact! I love American Muscles Car and collect their Old-School's Maquettes. 
+🔭 I’m a alumni of Electrical Engineering. B.Sc. of Electronics and M.Sc. in Telecommunication Systems.<br>👯 I’m looking to collaborate on AI , Data Science and Wireless Communication stuffs!<br>🌱 I’m currently learning A.I , Python and Signal Processing.<br>💬 Ask me about Wireless Communication Systems issues.<br>⚡ Fun fact! I love American Muscle Cars and collect their Old-School's Maquettes. 
 
 
 ## 🌐 Socials:
@@ -13,6 +13,9 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+⚡ Fun fact II: Couldn't find a proper badge for MATLAB. 😢
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Reza-Javadzadeh&theme=blue-green&hide_border=false)<br/>
 

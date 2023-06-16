@@ -14,10 +14,10 @@
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-⚡ Fun fact II: Couldn't find a proper badge for MATLAB 
-                                                 Proteus
-                                                 PSpice
-                                                 GNU Radio 
+⚡ Fun fact II: Couldn't find a proper badge for MATLAB, 
+                                                 Proteus,
+                                                 PSpice,
+                                                 GNU Radio, 
                                                  and so many others. 😢
 
 # 📊 GitHub Stats:

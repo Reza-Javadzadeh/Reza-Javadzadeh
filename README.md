@@ -1,7 +1,7 @@
 ### Hi there! My name is Reza 👋
 
 # 💫 About Reza:
-🔭 I’m a alumni of Electrical Engineering. B.Sc. of Electronics and M.Sc. in Telecommunication Systems.<br>👯 I’m looking to collaborate on AI , Data Science and Wireless Communication stuffs!<br>🌱 I’m currently learning A.I , Python and Signal Processing.<br>💬 Ask me about Wireless Communication Systems issues.<br>⚡ Fun fact! I love American Muscle Cars and collect their Old-School's Maquettes. 
+🔭 I’m a alumni of Electrical Engineering. B.Sc. of Electronics and M.Sc. in Telecommunication Systems.<br>👯 I’m looking to collaborate on AI , Data Science , Wireless Communication and Electronics stuffs!<br>🌱 I’m currently learning AI , Python and Signal Processing.<br>💬 Ask me about Wireless Communication Systems issues.<br>⚡ Fun fact! I love American Muscle Cars and collect their Old-School's Maquettes. 
 
 
 ## 🌐 Socials:
